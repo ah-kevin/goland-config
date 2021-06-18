@@ -1,0 +1,6 @@
+<list display="quicklist" description="quicklist  actions">
+  <action id="SelectInProjectView" />
+  <action id="$ShowTranslationDialogAction" />
+  <action id="$ShowInstantTranslationDialogAction" />
+  <action id="$EditorTranslateAction" />
+</list>

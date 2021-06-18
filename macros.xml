@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="导航到文件位子">
+      <action id="SelectIn" />
+      <typing text-keycode="49:0">1</typing>
+    </macro>
+  </component>
+</application>

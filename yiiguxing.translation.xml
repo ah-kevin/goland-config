@@ -1,0 +1,37 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="906" />
+    <option name="newTranslationDialogY" value="521" />
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value="Edition" />
+      <item value="Num Field" />
+      <item value="&#9; NumIn returns a function type's input parameter count.&#10;&#9; It panics if the type's Kind is not Func." />
+      <item value="// Use of this source code is governed by a BSD-style&#10;// license that can be found in the LICENSE file.&#10;" />
+      <item value="// Copyright 2009 The Go Authors. All rights reserved.&#10;" />
+      <item value="formats" />
+      <item value="Println formats using the default formats for its operands and writes to standard output." />
+      <item value="Println" />
+      <item value="// Println formats using the default formats for its operands and writes to standard output.&#10;// Spaces are always added between operands and a newline is appended.&#10;// It returns the number of bytes written and any write error encountered." />
+      <item value="// Println formats using the default formats for its operands and writes to standard output. // Spaces are always added between operands and a newline is appended. // It returns the number of bytes written and any write error encountered." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1623808433187" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="keepFormat" value="true" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
