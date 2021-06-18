@@ -1,9 +1,0 @@
-<application>
-  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="String Manipulation - Switch Case popup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-  </component>
-</application>
