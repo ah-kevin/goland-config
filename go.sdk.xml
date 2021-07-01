@@ -4,6 +4,7 @@
       <set>
         <option value="file://$USER_HOME$/go/sdk/go1.15.1" />
         <option value="file://$USER_HOME$/go/sdk/go1.16.4" />
+        <option value="file://$USER_HOME$/go/sdk/go1.16.5" />
       </set>
     </sdk-url>
   </component>
