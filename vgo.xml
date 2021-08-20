@@ -2,6 +2,13 @@
   <component name="vgo">
     <environment>
       <map>
+        <entry key="GOPRIVATE">
+          <value>
+            <list>
+              <option value="github.com/temptup" />
+            </list>
+          </value>
+        </entry>
         <entry key="GOPROXY">
           <value>
             <list>
