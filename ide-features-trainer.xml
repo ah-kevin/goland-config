@@ -5,9 +5,6 @@
       <entry name="Projects" expanded="true" />
     </expandedByName>
   </component>
-  <component name="LangManager">
-    <option name="languageName" value="go" />
-  </component>
   <component name="LessonStateBase">
     <option name="map">
       <map>
@@ -30,6 +27,9 @@
         <entry key="git.interactiverebase" value="NOT_PASSED" />
         <entry key="git.projecthistory" value="NOT_PASSED" />
         <entry key="git.quickstart" value="NOT_PASSED" />
+        <entry key="go.onboarding" value="NOT_PASSED" />
+        <entry key="go_enable_generics_in_go_files" value="NOT_PASSED" />
+        <entry key="go_navigate_to_internal_and_build_constraints" value="NOT_PASSED" />
         <entry key="go_var_check_error_postfix_template" value="PASSED" />
         <entry key="goland2019.2.extractmethodrefactoringwithreturns" value="PASSED" />
         <entry key="goland2019.2.fillstructfields" value="PASSED" />
