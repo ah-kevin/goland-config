@@ -5,6 +5,7 @@
         <entry key="GOPRIVATE">
           <value>
             <list>
+              <option value="git.zhugefang.com" />
               <option value="github.com/temptup" />
             </list>
           </value>
