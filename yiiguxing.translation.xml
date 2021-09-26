@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="521" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value=" First template becomes return value if not already defined,&#10;&#9;&#9; and we use that one for subsequent New calls to associate&#10;&#9;&#9; all the templates together. Also, if this file has the same name&#10;&#9;&#9; as t, this file becomes the contents of t, so&#10;&#9;&#9;  t, err := New(name).Funcs(xxx).ParseFiles(name)&#10;&#9;&#9; works. Otherwise we create a new template associated with t." />
       <item value="Edition" />
       <item value="Num Field" />
       <item value="&#9; NumIn returns a function type's input parameter count.&#10;&#9; It panics if the type's Kind is not Func." />
@@ -17,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
