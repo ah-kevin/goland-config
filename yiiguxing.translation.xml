@@ -27,14 +27,9 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632991917900" />
+    <option name="lastTrimTime" value="1635833312260" />
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="keepFormat" value="true" />
     <option name="translateDocumentation" value="true" />
   </component>
