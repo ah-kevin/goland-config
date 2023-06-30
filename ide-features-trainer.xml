@@ -42,7 +42,9 @@
         <entry key="git.quickstart" value="NOT_PASSED" />
         <entry key="go.onboarding" value="NOT_PASSED" />
         <entry key="go_enable_generics_in_go_files" value="NOT_PASSED" />
+        <entry key="go_generating_tests_for_generics" value="NOT_PASSED" />
         <entry key="go_generics_inspections" value="NOT_PASSED" />
+        <entry key="go_go_doc_comments" value="NOT_PASSED" />
         <entry key="go_navigate_to_internal_and_build_constraints" value="NOT_PASSED" />
         <entry key="go_quick_documentation" value="NOT_PASSED" />
         <entry key="go_var_check_error_postfix_template" value="PASSED" />
@@ -67,6 +69,7 @@
         <entry key="handling_unhandled_errors" value="PASSED" />
         <entry key="live and postfix templates: else, fori, and vars" value="NOT_PASSED" />
         <entry key="navigation from comments" value="PASSED" />
+        <entry key="playground_in_scratch_files" value="NOT_PASSED" />
         <entry key="postfix completion with sort" value="PASSED" />
         <entry key="postfix templates (nn, panic, rr, and return)" value="PASSED" />
         <entry key="quick-fixes, refactorings, and external documentation" value="NOT_PASSED" />
