@@ -4,10 +4,6 @@
     <option name="newTranslationDialogY" value="521" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="&#9; Common for all output formats.&#10;" />
-      <item value="&#9; This will be shifted out when we start to render a new output format.&#10;" />
-      <item value="&#9; This slice will be of same length as the number of global slice of output&#10;&#9; formats (for all sites)." />
-      <item value=" First template becomes return value if not already defined,&#10;&#9;&#9; and we use that one for subsequent New calls to associate&#10;&#9;&#9; all the templates together. Also, if this file has the same name&#10;&#9;&#9; as t, this file becomes the contents of t, so&#10;&#9;&#9;  t, err := New(name).Funcs(xxx).ParseFiles(name)&#10;&#9;&#9; works. Otherwise we create a new template associated with t." />
       <item value="Edition" />
       <item value="Num Field" />
       <item value="&#9; NumIn returns a function type's input parameter count.&#10;&#9; It panics if the type's Kind is not Func." />
@@ -21,16 +17,24 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669098016562" />
+    <option name="lastTrimTime" value="1623808433187" />
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="keepFormat" value="true" />
     <option name="translateDocumentation" value="true" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1688110280078" />
   </component>
 </application>
